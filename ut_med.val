@@ -1,0 +1,40 @@
+#BeginMacro(ut_0)
+ ( 1.05178)
+ #EndMacro
+
+#BeginMacro(ut_1)
+ ( 1.30421)
+ #EndMacro
+
+#BeginMacro(ut_2)
+ ( 1.55664)
+ #EndMacro
+
+#BeginMacro(ut_3)
+ ( 1.80907)
+ #EndMacro
+
+#BeginMacro(ut_4)
+ ( 2.0615)
+ #EndMacro
+
+#BeginMacro(ut_5)
+ ( 2.31393)
+ #EndMacro
+
+#BeginMacro(ut_6)
+ ( 2.56635)
+ #EndMacro
+
+#BeginMacro(ut_7)
+ ( 2.81878)
+ #EndMacro
+
+#BeginMacro(ut_8)
+ ( 3.07121)
+ #EndMacro
+
+#BeginMacro(ut_9)
+ ( 3.32364)
+ #EndMacro
+
